@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: ScalpStation docs
+theme: hugo-book
+defaultContentLanguage: en
+languages:
+    en:
+        title: ScalpStation
+        weight: 1
+        contentDir: content/en
+        languageName: English
+    ru:
+        title: ScalpStation
+        weight: 2
+        contentDir: content/ru
+        languageName: Russian
