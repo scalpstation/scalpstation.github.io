@@ -1,7 +1,6 @@
 ---
-title: "test"
+title: "Документация ScalpStation"
 date: 2023-03-09T21:21:19+03:00
-draft: false
 ---
 
 # О проекте

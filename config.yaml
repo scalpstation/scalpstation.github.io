@@ -1,6 +1,4 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: ScalpStation docs
+baseURL: https://scalpstation.github.io/
 theme: hugo-book
 defaultContentLanguage: en
 languages:
