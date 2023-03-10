@@ -1,5 +1,5 @@
 baseURL: https://scalpstation.github.io/
-theme: hugo-book
+theme: hugo-geekdoc
 defaultContentLanguage: en
 languages:
     en:
