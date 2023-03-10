@@ -12,3 +12,9 @@ languages:
         weight: 2
         contentDir: content/ru
         languageName: Russian
+enableGitInfo: true
+
+params:
+    geekdocLogo: logo.svg
+    geekdocRepo: "https://github.com/scalpstation/scalpstation.github.io"
+    geekdocEditPath: "tree/main"
